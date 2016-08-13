@@ -1,0 +1,11 @@
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Design.XML
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Design.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Design.pdb
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Design 2010.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Navigator.KryptonPageFormEditFlags.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Design.Properties.Resources.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Toolkit.KryptonCheckButtonCollectionForm.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Toolkit.PaletteDrawBordersSelector.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Design 2010.csproj.GenerateResource.Cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Design.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Design\obj\Debug\ComponentFactory.Krypton.Design.pdb

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
@@ -19,7 +19,7 @@
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
     <IsWebBootstrapper>false</IsWebBootstrapper>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -34,6 +34,7 @@
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -45,6 +46,7 @@
     <WarningLevel>4</WarningLevel>
     <DocumentationFile>..\..\..\Bin\ComponentFactory.Krypton.Workspace.XML</DocumentationFile>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -55,6 +57,7 @@
     <WarningLevel>4</WarningLevel>
     <DocumentationFile>..\..\..\Bin\ComponentFactory.Krypton.Workspace.XML</DocumentationFile>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,15 +70,9 @@
     <Compile Include="Controls Workspace\KryptonWorkspaceSequenceConverter.cs" />
     <Compile Include="Controls Workspace\KryptonWorkspaceCollection.cs">
     </Compile>
-    <Compile Include="Controls Workspace\KryptonWorkspaceCell.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Controls Workspace\KryptonWorkspaceSequence.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Controls Workspace\KryptonWorkspace.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Controls Workspace\KryptonWorkspaceCell.cs" />
+    <Compile Include="Controls Workspace\KryptonWorkspaceSequence.cs" />
+    <Compile Include="Controls Workspace\KryptonWorkspace.cs" />
     <Compile Include="Dragging\DragTargetWorkspace.cs" />
     <Compile Include="Dragging\DragTargetWorkspaceCellTransfer.cs" />
     <Compile Include="Dragging\DragTargetWorkspaceCellEdge.cs" />
@@ -180,6 +177,6 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>"$(ProjectDir)..\GacUtil.exe" -i "$(TargetPath)" /f</PostBuildEvent>
+    <PostBuildEvent>"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\gacutil.exe" -i "$(TargetPath)" /f</PostBuildEvent>
   </PropertyGroup>
 </Project>

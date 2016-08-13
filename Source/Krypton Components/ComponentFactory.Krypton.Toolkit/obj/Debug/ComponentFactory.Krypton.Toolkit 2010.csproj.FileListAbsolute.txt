@@ -1,0 +1,12 @@
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Toolkit.XML
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Toolkit.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Toolkit.pdb
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit 2010.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit.KryptonInputBox.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit.VisualTaskDialog.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit.KryptonMessageBox.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit.Properties.Resources.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit.ModalWaitDialog.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit 2010.csproj.GenerateResource.Cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Toolkit\obj\Debug\ComponentFactory.Krypton.Toolkit.pdb

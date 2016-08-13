@@ -1,0 +1,9 @@
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Docking.XML
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Docking.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Docking.pdb
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Docking\obj\Debug\ComponentFactory.Krypton.Docking 2010.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Docking\obj\Debug\ComponentFactory.Krypton.Docking.Properties.Resources.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Docking\obj\Debug\ComponentFactory.Krypton.Docking.LicenseInstallForm.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Docking\obj\Debug\ComponentFactory.Krypton.Docking 2010.csproj.GenerateResource.Cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Docking\obj\Debug\ComponentFactory.Krypton.Docking.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Docking\obj\Debug\ComponentFactory.Krypton.Docking.pdb

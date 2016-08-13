@@ -1,0 +1,9 @@
+
+#Run as admin
+
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\gacutil.exe" -i "D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Toolkit.dll" /f
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\gacutil.exe" -i "D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Navigator.dll" /f
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\gacutil.exe" -i "D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Ribbon.dll" /f
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\gacutil.exe" -i "D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Workspace.dll" /f
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\gacutil.exe" -i "D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Design.dll" /f
+"C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\gacutil.exe" -i "D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Docking.dll" /f

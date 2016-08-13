@@ -1,0 +1,9 @@
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Navigator.XML
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Navigator.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Bin\ComponentFactory.Krypton.Navigator.pdb
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Navigator\obj\Debug\ComponentFactory.Krypton.Navigator 2010.csprojResolveAssemblyReference.cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Navigator\obj\Debug\ComponentFactory.Krypton.Navigator.LicenseInstallForm.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Navigator\obj\Debug\ComponentFactory.Krypton.Navigator.Properties.Resources.resources
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Navigator\obj\Debug\ComponentFactory.Krypton.Navigator 2010.csproj.GenerateResource.Cache
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Navigator\obj\Debug\ComponentFactory.Krypton.Navigator.dll
+D:\Dropbox\Visual Studio 2015\libs\MyRepos\Krypton\Source\Krypton Components\ComponentFactory.Krypton.Navigator\obj\Debug\ComponentFactory.Krypton.Navigator.pdb

@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFactory.Krypton.Toolkit 2010", "ComponentFactory.Krypton.Toolkit\ComponentFactory.Krypton.Toolkit 2010.csproj", "{96ECAECC-54F8-4AA5-8591-B443C2D9565F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFactory.Krypton.Navigator 2010", "ComponentFactory.Krypton.Navigator\ComponentFactory.Krypton.Navigator 2010.csproj", "{DC0DD714-4D19-4F31-A6D0-EA209D4F0EA8}"
@@ -12,6 +14,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFactory.Krypton.Docking 2010", "ComponentFactory.Krypton.Docking\ComponentFactory.Krypton.Docking 2010.csproj", "{E00FF125-CB44-480B-847E-7B3D27E481EB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentFactory.Krypton.Design 2010", "ComponentFactory.Krypton.Design\ComponentFactory.Krypton.Design 2010.csproj", "{6004C98A-6642-4DCF-906C-E0ED3581978F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{744553E2-F0C1-4225-B752-22F607118603}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\installInGac.txt = ..\..\installInGac.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
